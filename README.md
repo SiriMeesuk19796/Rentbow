@@ -21,7 +21,6 @@ Rentbow is an online clothing rental system that allows users to rent clothes fo
 To view the website locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/SiriMeesuk19796/Rentbow.git
 2.Run Without Debugging.
   Choose any device, such as Chrome, Windows, or Android, if available.
